@@ -1,3 +1,7 @@
+# Changes by Charminbear
+I adjusted the original Version of this plugin to have "onDetailsReady"-Attribute within the Directive which takes a function that gets exdecuted each time the "details" Object is being updated. I maybe wanna put out my own implementation of an ngAutocomplete-Directive with this improvements in mind, but due to a lack of time im going with this solution for my projects now.
+
+
 # ng-Autocomplete
 
 A simple directive for adding google places autocomplete to a textbox element. 
